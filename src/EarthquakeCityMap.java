@@ -1,8 +1,5 @@
-package module5;
-
 import java.util.ArrayList;
 import java.util.List;
-
 import de.fhpotsdam.unfolding.UnfoldingMap;
 import de.fhpotsdam.unfolding.data.Feature;
 import de.fhpotsdam.unfolding.data.GeoJSONReader;
