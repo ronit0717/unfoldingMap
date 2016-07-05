@@ -1,7 +1,7 @@
 # UnfoldingMap
 Interactive Map and geo-visualisation in processing and Java
 
-Unfolding
+UnfoldingMap
 
 Create interactive thematic maps and geovisualizations.
 
