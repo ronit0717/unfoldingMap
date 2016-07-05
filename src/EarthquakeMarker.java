@@ -1,5 +1,3 @@
-package module5;
-
 import de.fhpotsdam.unfolding.data.PointFeature;
 import processing.core.PGraphics;
 
