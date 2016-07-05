@@ -1,8 +1,6 @@
 UnfoldingMap
 
-Copyright (C) 2016 
-Author: UC San Diego Intermediate Software Development MOOC team
-@author Ronit Chattopadhyay
+Copyright (C) 2016 Till Nagel, and contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
